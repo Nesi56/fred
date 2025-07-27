@@ -4,4 +4,4 @@ Built from the ground up, Fred is starting with a custom-trained GPT model fine-
 The long-term goal: match and eventually surpass models like GPT-4o in logic-based benchmarks like ARC and BBH — through efficient training, RLHF, and automation.
 This is a work in progress.
 Fred doesn’t aim to be everything. Just the smartest in the room.
-Start Date: July 23rd 2025
+Start Date: July 27th 2025
